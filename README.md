@@ -66,7 +66,7 @@ Este projeto é um simples gerenciador de senhas que utiliza a biblioteca `Ferne
 ├── Keys                        # Diretório para armazenar as chaves de criptografia
 ├── __init__.py                 # Arquivo de inicialização
 └── README.md                   
-
+```
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para sugestões ou relatórios de bugs, e envie um pull request para melhorias.
