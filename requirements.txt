@@ -1,0 +1,11 @@
+certifi==2024.8.30
+cffi==1.17.1
+charset-normalizer==3.3.2
+cryptography==43.0.3
+idna==3.10
+pillow==10.4.0
+pycparser==2.22
+pytube==15.0.0
+pytubefix==8.2.0
+requests==2.32.3
+urllib3==2.2.3
